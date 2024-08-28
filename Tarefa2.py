@@ -65,28 +65,31 @@ def get_movie_details(filme):
     director_section = bs.find_all(
         "li",
         attrs={
-            "data-testid": "title-pc-principal-credit"
-        },  # busca todos os elementos <li> no HTML que possuem o atributo data-testid='title-pc-principal-credit'
+            "role": "presentation",
+            "class": "ipc-metadata-list__item",
+        },  # busca todos os elementos <li> com o papel 'presentation' e classe 'ipc-metadata-list__item'
     )
     for section in director_section:
-        if "Director" in section.text or "Directors" in section.text:
-            directors = [
-                a.text.strip() for a in section.find_all("a")
-            ]  #  elementos <a> contêm links para as páginas dos diretores
+        label = section.find("span", class_="ipc-metadata-list-item__label")
+        if label and "Director" in label.text:  # vai ate o nome do diretor
+            director_names = section.find_all(
+                "a", class_="ipc-metadata-list-item__list-content-item--link"
+            )
+            directors = [a.text.strip() for a in director_names]
             break
 
-    # Elenco principal
+    # Elenco Principal ("Top Cast")
     main_cast = []
-    for section in director_section:
-        if (
-            "Stars" in section.text
-        ):  # Exclui o "Stars" e captura apenas os nomes e ignora elementos vazios
-            main_cast = [
-                a.text.strip()
-                for a in section.find_all("a")
-                if a.text.strip() and "Stars" not in a.text
-            ]
-            break
+    actor_elements = bs.find_all(
+        "a",
+        attrs={
+            "data-testid": "title-cast-item__actor"
+        },  # busca todos os elementos <a> no HTML que possuem o atributo data-testid='title-cast-item__actor'
+    )
+    for actor in actor_elements:
+        main_cast.append(
+            actor.text.strip()
+        )  # adiciona o nome do ator à lista após remover espaços em branco
 
     # Adiciona ao dicionário do filme
     filme["director(s)"] = directors
