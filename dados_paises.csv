@@ -1,11 +1,253 @@
 País,Moeda,Continente,Vizinhos,Timestamp
-Afghanistan,Afghani,AS,TM CN IR TJ PK UZ ,2024-08-25 23:05:56
-Aland Islands,Euro,EU, ,2024-08-25 23:05:57
-Albania,Lek,EU,MK GR CS ME RS XK ,2024-08-25 23:05:57
-Algeria,Dinar,AF,NE EH LY MR TN MA ML ,2024-08-25 23:05:57
-American Samoa,Dollar,OC, ,2024-08-25 23:05:57
-Andorra,Euro,EU,ES FR ,2024-08-25 23:05:57
-Angola,Kwanza,AF,CD NA ZM CG ,2024-08-25 23:05:57
-Anguilla,Dollar,NA, ,2024-08-25 23:05:57
-Antarctica,,AN, ,2024-08-25 23:05:57
-Antigua and Barbuda,Dollar,NA, ,2024-08-25 23:05:57
+Afghanistan,Afghani,AS,TM CN IR TJ PK UZ ,2024-08-28 21:49:05
+Aland Islands,Euro,EU, ,2024-08-28 21:49:05
+Albania,Lek,EU,MK GR CS ME RS XK ,2024-08-28 21:49:05
+Algeria,Dinar,AF,NE EH LY MR TN MA ML ,2024-08-28 21:49:05
+American Samoa,Dollar,OC, ,2024-08-28 21:49:05
+Andorra,Euro,EU,ES FR ,2024-08-28 21:49:05
+Angola,Kwanza,AF,CD NA ZM CG ,2024-08-28 21:49:05
+Anguilla,Dollar,NA, ,2024-08-28 21:49:05
+Antarctica,,AN, ,2024-08-28 21:49:05
+Antigua and Barbuda,Dollar,NA, ,2024-08-28 21:49:05
+Argentina,Peso,SA,CL BO UY PY BR ,2024-08-28 21:49:05
+Armenia,Dram,AS,GE IR AZ TR ,2024-08-28 21:49:05
+Aruba,Guilder,NA, ,2024-08-28 21:49:05
+Australia,Dollar,OC, ,2024-08-28 21:49:05
+Austria,Euro,EU,CH DE HU SK CZ IT SI LI ,2024-08-28 21:49:06
+Azerbaijan,Manat,AS,GE IR AM TR RU ,2024-08-28 21:49:06
+Bahamas,Dollar,NA, ,2024-08-28 21:49:06
+Bahrain,Dinar,AS, ,2024-08-28 21:49:06
+Bangladesh,Taka,AS,MM IN ,2024-08-28 21:49:06
+Barbados,Dollar,NA, ,2024-08-28 21:49:06
+Belarus,Ruble,EU,PL LT UA RU LV ,2024-08-28 21:49:06
+Belgium,Euro,EU,DE NL LU FR ,2024-08-28 21:49:06
+Belize,Dollar,NA,GT MX ,2024-08-28 21:49:06
+Benin,Franc,AF,NE TG BF NG ,2024-08-28 21:49:06
+Bermuda,Dollar,NA, ,2024-08-28 21:49:06
+Bhutan,Ngultrum,AS,CN IN ,2024-08-28 21:49:06
+Bolivia,Boliviano,SA,PE CL PY BR AR ,2024-08-28 21:49:06
+"Bonaire, Saint Eustatius and Saba",Dollar,NA, ,2024-08-28 21:49:06
+Bosnia and Herzegovina,Marka,EU,CS HR ME RS ,2024-08-28 21:49:06
+Botswana,Pula,AF,ZW ZA NA ,2024-08-28 21:49:06
+Bouvet Island,Krone,AN, ,2024-08-28 21:49:07
+Brazil,Real,SA,SR PE BO UY GY PY GF VE CO AR ,2024-08-28 21:49:07
+British Indian Ocean Territory,Dollar,AS, ,2024-08-28 21:49:07
+British Virgin Islands,Dollar,NA, ,2024-08-28 21:49:07
+Brunei,Dollar,AS,MY ,2024-08-28 21:49:07
+Bulgaria,Lev,EU,MK GR RO CS TR RS ,2024-08-28 21:49:07
+Burkina Faso,Franc,AF,NE BJ GH CI TG ML ,2024-08-28 21:49:07
+Burundi,Franc,AF,TZ CD RW ,2024-08-28 21:49:07
+Cambodia,Riels,AS,LA TH VN ,2024-08-28 21:49:07
+Cameroon,Franc,AF,TD CF GA GQ CG NG ,2024-08-28 21:49:07
+Canada,Dollar,NA,US ,2024-08-28 21:49:07
+Cape Verde,Escudo,AF, ,2024-08-28 21:49:07
+Cayman Islands,Dollar,NA, ,2024-08-28 21:49:07
+Central African Republic,Franc,AF,TD SD CD SS CM CG ,2024-08-28 21:49:07
+Chad,Franc,AF,NE LY CF SD CM NG ,2024-08-28 21:49:07
+Chile,Peso,SA,PE BO AR ,2024-08-28 21:49:07
+China,Yuan Renminbi,AS,LA BT TJ KZ MN AF NP MM KG PK KP RU VN IN ,2024-08-28 21:49:08
+Christmas Island,Dollar,AS, ,2024-08-28 21:49:08
+Cocos Islands,Dollar,AS, ,2024-08-28 21:49:08
+Colombia,Peso,SA,EC PE PA BR VE ,2024-08-28 21:49:08
+Comoros,Franc,AF, ,2024-08-28 21:49:08
+Cook Islands,Dollar,OC, ,2024-08-28 21:49:08
+Costa Rica,Colon,NA,PA NI ,2024-08-28 21:49:08
+Croatia,Kuna,EU,HU SI CS BA ME RS ,2024-08-28 21:49:08
+Cuba,Peso,NA,US ,2024-08-28 21:49:08
+Curacao,Guilder,NA, ,2024-08-28 21:49:08
+Cyprus,Euro,EU, ,2024-08-28 21:49:08
+Czech Republic,Koruna,EU,PL DE SK AT ,2024-08-28 21:49:08
+Democratic Republic of the Congo,Franc,AF,TZ CF SS RW ZM BI UG CG AO ,2024-08-28 21:49:08
+Denmark,Krone,EU,DE ,2024-08-28 21:49:08
+Djibouti,Franc,AF,ER ET SO ,2024-08-28 21:49:08
+Dominica,Dollar,NA, ,2024-08-28 21:49:08
+Dominican Republic,Peso,NA,HT ,2024-08-28 21:49:08
+East Timor,Dollar,OC,ID ,2024-08-28 21:49:09
+Ecuador,Dollar,SA,PE CO ,2024-08-28 21:49:09
+Egypt,Pound,AF,LY SD IL ,2024-08-28 21:49:09
+El Salvador,Dollar,NA,GT HN ,2024-08-28 21:49:09
+Equatorial Guinea,Franc,AF,GA CM ,2024-08-28 21:49:09
+Eritrea,Nakfa,AF,ET SD DJ ,2024-08-28 21:49:09
+Estonia,Euro,EU,RU LV ,2024-08-28 21:49:09
+Ethiopia,Birr,AF,ER KE SD SS SO DJ ,2024-08-28 21:49:09
+Falkland Islands,Pound,SA, ,2024-08-28 21:49:09
+Faroe Islands,Krone,EU, ,2024-08-28 21:49:09
+Fiji,Dollar,OC, ,2024-08-28 21:49:09
+Finland,Euro,EU,NO RU SE ,2024-08-28 21:49:09
+France,Euro,EU,CH DE BE LU IT AD MC ES ,2024-08-28 21:49:09
+French Guiana,Euro,SA,SR BR ,2024-08-28 21:49:09
+French Polynesia,Franc,OC, ,2024-08-28 21:49:09
+French Southern Territories,Euro,AN, ,2024-08-28 21:49:09
+Gabon,Franc,AF,CM GQ CG ,2024-08-28 21:49:10
+Gambia,Dalasi,AF,SN ,2024-08-28 21:49:10
+Georgia,Lari,AS,AM AZ TR RU ,2024-08-28 21:49:10
+Germany,Euro,EU,CH PL NL DK BE CZ LU FR AT ,2024-08-28 21:49:10
+Ghana,Cedi,AF,CI TG BF ,2024-08-28 21:49:10
+Gibraltar,Pound,EU,ES ,2024-08-28 21:49:10
+Greece,Euro,EU,AL MK TR BG ,2024-08-28 21:49:10
+Greenland,Krone,NA, ,2024-08-28 21:49:10
+Grenada,Dollar,NA, ,2024-08-28 21:49:10
+Guadeloupe,Euro,NA,AN ,2024-08-28 21:49:10
+Guam,Dollar,OC, ,2024-08-28 21:49:10
+Guatemala,Quetzal,NA,MX HN BZ SV ,2024-08-28 21:49:10
+Guernsey,Pound,EU, ,2024-08-28 21:49:10
+Guinea,Franc,AF,LR SN SL CI GW ML ,2024-08-28 21:49:10
+Guinea-Bissau,Franc,AF,SN GN ,2024-08-28 21:49:10
+Guyana,Dollar,SA,SR BR VE ,2024-08-28 21:49:10
+Haiti,Gourde,NA,DO ,2024-08-28 21:49:11
+Heard Island and McDonald Islands,Dollar,AN, ,2024-08-28 21:49:11
+Honduras,Lempira,NA,GT NI SV ,2024-08-28 21:49:11
+Hong Kong,Dollar,AS, ,2024-08-28 21:49:11
+Hungary,Forint,EU,SK SI RO UA CS HR AT RS ,2024-08-28 21:49:11
+Iceland,Krona,EU, ,2024-08-28 21:49:11
+India,Rupee,AS,CN NP MM BT PK BD ,2024-08-28 21:49:11
+Indonesia,Rupiah,AS,PG TL MY ,2024-08-28 21:49:11
+Iran,Rial,AS,TM AF IQ AM PK AZ TR ,2024-08-28 21:49:11
+Iraq,Dinar,AS,SY SA IR JO TR KW ,2024-08-28 21:49:11
+Ireland,Euro,EU,GB ,2024-08-28 21:49:11
+Isle of Man,Pound,EU, ,2024-08-28 21:49:11
+Israel,Shekel,AS,SY JO LB EG PS ,2024-08-28 21:49:11
+Italy,Euro,EU,CH VA SI SM FR AT ,2024-08-28 21:49:11
+Ivory Coast,Franc,AF,LR GH GN BF ML ,2024-08-28 21:49:11
+Jamaica,Dollar,NA, ,2024-08-28 21:49:11
+Japan,Yen,AS, ,2024-08-28 21:49:12
+Jersey,Pound,EU, ,2024-08-28 21:49:12
+Jordan,Dinar,AS,SY SA IQ IL PS ,2024-08-28 21:49:12
+Kazakhstan,Tenge,AS,TM CN KG UZ RU ,2024-08-28 21:49:12
+Kenya,Shilling,AF,ET TZ SS SO UG ,2024-08-28 21:49:12
+Kiribati,Dollar,OC, ,2024-08-28 21:49:12
+Kosovo,Euro,EU,RS AL MK ME ,2024-08-28 21:49:12
+Kuwait,Dinar,AS,SA IQ ,2024-08-28 21:49:12
+Kyrgyzstan,Som,AS,CN TJ UZ KZ ,2024-08-28 21:49:12
+Laos,Kip,AS,CN MM KH TH VN ,2024-08-28 21:49:12
+Latvia,Euro,EU,LT EE BY RU ,2024-08-28 21:49:12
+Lebanon,Pound,AS,SY IL ,2024-08-28 21:49:12
+Lesotho,Loti,AF,ZA ,2024-08-28 21:49:12
+Liberia,Dollar,AF,SL CI GN ,2024-08-28 21:49:12
+Libya,Dinar,AF,TD NE DZ SD TN EG ,2024-08-28 21:49:12
+Liechtenstein,Franc,EU,CH AT ,2024-08-28 21:49:12
+Lithuania,Litas,EU,PL BY RU LV ,2024-08-28 21:49:12
+Luxembourg,Euro,EU,DE BE FR ,2024-08-28 21:49:13
+Macao,Pataca,AS, ,2024-08-28 21:49:13
+Macedonia,Denar,EU,AL GR CS BG RS XK ,2024-08-28 21:49:13
+Madagascar,Ariary,AF, ,2024-08-28 21:49:13
+Malawi,Kwacha,AF,TZ MZ ZM ,2024-08-28 21:49:13
+Malaysia,Ringgit,AS,BN TH ID ,2024-08-28 21:49:13
+Maldives,Rufiyaa,AS, ,2024-08-28 21:49:13
+Mali,Franc,AF,SN NE DZ CI GN MR BF ,2024-08-28 21:49:13
+Malta,Euro,EU, ,2024-08-28 21:49:13
+Marshall Islands,Dollar,OC, ,2024-08-28 21:49:13
+Martinique,Euro,NA, ,2024-08-28 21:49:13
+Mauritania,Ouguiya,AF,SN DZ EH ML ,2024-08-28 21:49:13
+Mauritius,Rupee,AF, ,2024-08-28 21:49:13
+Mayotte,Euro,AF, ,2024-08-28 21:49:13
+Mexico,Peso,NA,GT US BZ ,2024-08-28 21:49:13
+Micronesia,Dollar,OC, ,2024-08-28 21:49:13
+Moldova,Leu,EU,RO UA ,2024-08-28 21:49:14
+Monaco,Euro,EU,FR ,2024-08-28 21:49:14
+Mongolia,Tugrik,AS,CN RU ,2024-08-28 21:49:14
+Montenegro,Euro,EU,AL HR BA RS XK ,2024-08-28 21:49:14
+Montserrat,Dollar,NA, ,2024-08-28 21:49:14
+Morocco,Dirham,AF,DZ EH ES ,2024-08-28 21:49:14
+Mozambique,Metical,AF,ZW TZ SZ ZA ZM MW ,2024-08-28 21:49:14
+Myanmar,Kyat,AS,CN LA TH BD IN ,2024-08-28 21:49:14
+Namibia,Dollar,AF,ZA BW ZM AO ,2024-08-28 21:49:14
+Nauru,Dollar,OC, ,2024-08-28 21:49:14
+Nepal,Rupee,AS,CN IN ,2024-08-28 21:49:14
+Netherlands,Euro,EU,DE BE ,2024-08-28 21:49:14
+Netherlands Antilles,Guilder,NA,GP ,2024-08-28 21:49:14
+New Caledonia,Franc,OC, ,2024-08-28 21:49:14
+New Zealand,Dollar,OC, ,2024-08-28 21:49:14
+Nicaragua,Cordoba,NA,CR HN ,2024-08-28 21:49:14
+Niger,Franc,AF,TD BJ DZ LY BF NG ML ,2024-08-28 21:49:15
+Nigeria,Naira,AF,TD NE BJ CM ,2024-08-28 21:49:15
+Niue,Dollar,OC, ,2024-08-28 21:49:15
+Norfolk Island,Dollar,OC, ,2024-08-28 21:49:15
+North Korea,Won,AS,CN KR RU ,2024-08-28 21:49:15
+Northern Mariana Islands,Dollar,OC, ,2024-08-28 21:49:15
+Norway,Krone,EU,FI RU SE ,2024-08-28 21:49:15
+Oman,Rial,AS,SA YE AE ,2024-08-28 21:49:15
+Pakistan,Rupee,AS,CN AF IR IN ,2024-08-28 21:49:15
+Palau,Dollar,OC, ,2024-08-28 21:49:15
+Palestinian Territory,Shekel,AS,JO IL ,2024-08-28 21:49:15
+Panama,Balboa,NA,CR CO ,2024-08-28 21:49:15
+Papua New Guinea,Kina,OC,ID ,2024-08-28 21:49:15
+Paraguay,Guarani,SA,BO BR AR ,2024-08-28 21:49:15
+Peru,Sol,SA,EC CL BO BR CO ,2024-08-28 21:49:15
+Philippines,Peso,AS, ,2024-08-28 21:49:16
+Pitcairn,Dollar,OC, ,2024-08-28 21:49:16
+Poland,Zloty,EU,DE LT SK CZ BY UA RU ,2024-08-28 21:49:16
+Portugal,Euro,EU,ES ,2024-08-28 21:49:16
+Puerto Rico,Dollar,NA, ,2024-08-28 21:49:16
+Qatar,Rial,AS,SA ,2024-08-28 21:49:16
+Republic of the Congo,Franc,AF,CF GA CD CM AO ,2024-08-28 21:49:16
+Reunion,Euro,AF, ,2024-08-28 21:49:16
+Romania,Leu,EU,MD HU UA CS BG RS ,2024-08-28 21:49:16
+Russia,Ruble,EU,GE CN BY UA KZ LV PL EE LT FI MN NO AZ KP ,2024-08-28 21:49:16
+Rwanda,Franc,AF,TZ CD BI UG ,2024-08-28 21:49:16
+Saint Barthelemy,Euro,NA, ,2024-08-28 21:49:16
+Saint Helena,Pound,AF, ,2024-08-28 21:49:16
+Saint Kitts and Nevis,Dollar,NA, ,2024-08-28 21:49:16
+Saint Lucia,Dollar,NA, ,2024-08-28 21:49:16
+Saint Martin,Euro,NA,SX ,2024-08-28 21:49:16
+Saint Pierre and Miquelon,Euro,NA, ,2024-08-28 21:49:17
+Saint Vincent and the Grenadines,Dollar,NA, ,2024-08-28 21:49:17
+Samoa,Tala,OC, ,2024-08-28 21:49:17
+San Marino,Euro,EU,IT ,2024-08-28 21:49:17
+Sao Tome and Principe,Dobra,AF, ,2024-08-28 21:49:17
+Saudi Arabia,Rial,AS,QA OM IQ YE JO AE KW ,2024-08-28 21:49:17
+Senegal,Franc,AF,GN MR GW GM ML ,2024-08-28 21:49:17
+Serbia,Dinar,EU,AL HU MK RO HR BA BG ME XK ,2024-08-28 21:49:17
+Serbia and Montenegro,Dinar,EU,AL HU MK RO HR BA BG ,2024-08-28 21:49:17
+Seychelles,Rupee,AF, ,2024-08-28 21:49:17
+Sierra Leone,Leone,AF,LR GN ,2024-08-28 21:49:17
+Singapore,Dollar,AS, ,2024-08-28 21:49:17
+Sint Maarten,Guilder,NA,MF ,2024-08-28 21:49:17
+Slovakia,Euro,EU,PL HU CZ UA AT ,2024-08-28 21:49:17
+Slovenia,Euro,EU,HU IT HR AT ,2024-08-28 21:49:17
+Solomon Islands,Dollar,OC, ,2024-08-28 21:49:18
+Somalia,Shilling,AF,ET KE DJ ,2024-08-28 21:49:18
+South Africa,Rand,AF,ZW SZ MZ BW NA LS ,2024-08-28 21:49:18
+South Georgia and the South Sandwich Islands,Pound,AN, ,2024-08-28 21:49:18
+South Korea,Won,AS,KP ,2024-08-28 21:49:18
+South Sudan,Pound,AF,CD CF ET KE SD UG  ,2024-08-28 21:49:18
+Spain,Euro,EU,AD PT GI FR MA ,2024-08-28 21:49:18
+Sri Lanka,Rupee,AS, ,2024-08-28 21:49:18
+Sudan,Pound,AF,SS TD EG ET ER LY CF ,2024-08-28 21:49:18
+Suriname,Dollar,SA,GY BR GF ,2024-08-28 21:49:18
+Svalbard and Jan Mayen,Krone,EU, ,2024-08-28 21:49:18
+Swaziland,Lilangeni,AF,ZA MZ ,2024-08-28 21:49:18
+Sweden,Krona,EU,NO FI ,2024-08-28 21:49:18
+Switzerland,Franc,EU,DE IT LI FR AT ,2024-08-28 21:49:18
+Syria,Pound,AS,IQ JO IL TR LB ,2024-08-28 21:49:18
+Taiwan,Dollar,AS, ,2024-08-28 21:49:19
+Tajikistan,Somoni,AS,CN AF KG UZ ,2024-08-28 21:49:19
+Tanzania,Shilling,AF,MZ KE CD RW ZM BI UG MW ,2024-08-28 21:49:19
+Thailand,Baht,AS,LA MM KH MY ,2024-08-28 21:49:19
+Togo,Franc,AF,BJ GH BF ,2024-08-28 21:49:19
+Tokelau,Dollar,OC, ,2024-08-28 21:49:19
+Tonga,Pa'anga,OC, ,2024-08-28 21:49:19
+Trinidad and Tobago,Dollar,NA, ,2024-08-28 21:49:19
+Tunisia,Dinar,AF,DZ LY ,2024-08-28 21:49:19
+Turkey,Lira,AS,SY GE IQ IR GR AM AZ BG ,2024-08-28 21:49:19
+Turkmenistan,Manat,AS,AF IR UZ KZ ,2024-08-28 21:49:19
+Turks and Caicos Islands,Dollar,NA, ,2024-08-28 21:49:19
+Tuvalu,Dollar,OC, ,2024-08-28 21:49:19
+U.S. Virgin Islands,Dollar,NA, ,2024-08-28 21:49:19
+Uganda,Shilling,AF,TZ KE SS CD RW ,2024-08-28 21:49:19
+Ukraine,Hryvnia,EU,PL MD HU SK BY RO RU ,2024-08-28 21:49:20
+United Arab Emirates,Dirham,AS,SA OM ,2024-08-28 21:49:20
+United Kingdom,Pound,EU,IE ,2024-08-28 21:49:20
+United States,Dollar,NA,CA MX CU ,2024-08-28 21:49:20
+United States Minor Outlying Islands,Dollar,OC, ,2024-08-28 21:49:20
+Uruguay,Peso,SA,BR AR ,2024-08-28 21:49:20
+Uzbekistan,Som,AS,TM AF KG TJ KZ ,2024-08-28 21:49:20
+Vanuatu,Vatu,OC, ,2024-08-28 21:49:20
+Vatican,Euro,EU,IT ,2024-08-28 21:49:20
+Venezuela,Bolivar,SA,GY BR CO ,2024-08-28 21:49:20
+Vietnam,Dong,AS,CN LA KH ,2024-08-28 21:49:20
+Wallis and Futuna,Franc,OC, ,2024-08-28 21:49:20
+Western Sahara,Dirham,AF,DZ MR MA ,2024-08-28 21:49:20
+Yemen,Rial,AS,SA OM ,2024-08-28 21:49:20
+Zambia,Kwacha,AF,ZW TZ MZ CD NA MW AO ,2024-08-28 21:49:20
+Zimbabwe,Dollar,AF,ZA MZ BW ZM ,2024-08-28 21:49:20
