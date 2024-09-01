@@ -4,6 +4,8 @@ from urllib.parse import urljoin
 import pandas as pd
 from datetime import datetime
 
+from T1_Coleta import helper
+
 # URL base
 base_url = 'http://127.0.0.1:8000'
 
@@ -46,25 +48,9 @@ def process_country_page(url):
         continent = tr_element.find('td', class_='w2p_fw').text if tr_element else 'N/A'
         
         tr_element = country_soup.find('tr', id='places_neighbours__row')
-        neighbours_list = []
         
-        if tr_element:
-            for link in tr_element.find('td', class_='w2p_fw').find_all('a'):
-                neighbour_url = urljoin(base_url, link['href'])
-                try:
-                    neighbour_response = requests.get(neighbour_url)
-                    neighbour_soup = BeautifulSoup(neighbour_response.text, 'html.parser')
-                    
-                    neighbour_country_tr = neighbour_soup.find('tr', id='places_country__row')
-                    neighbour_country = neighbour_country_tr.find('td', class_='w2p_fw').text if neighbour_country_tr else 'Não contém'
-                    
-                    neighbours_list.append(neighbour_country)
-                
-                except Exception as e:
-                    print(f"Erro ao acessar o vizinho {neighbour_url}: {e}")
-        
-        neighbours = ', '.join(neighbours_list) if neighbours_list else 'N/A'
-        
+        neighbours = helper.get_neighbours(tr_element)
+
         timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         
         # Adiciona os dados à lista
