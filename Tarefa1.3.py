@@ -1,12 +1,10 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 from datetime import datetime
 from bs4 import BeautifulSoup
 import requests
-from urlparse import urljoin
+from urllib.parse import urljoin
 import helper
 import pandas as pd
+
 
 # Verifica se houve atualização do país no .csv
 def there_is_update(data, country, currency, continent, neighbours):

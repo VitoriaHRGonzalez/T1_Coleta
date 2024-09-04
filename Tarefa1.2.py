@@ -4,34 +4,13 @@ from urllib.parse import urljoin
 import pandas as pd
 from datetime import datetime
 
-from T1_Coleta import helper
+import helper
 
 # URL base
 base_url = 'http://127.0.0.1:8000'
 
 def get_url(path):
     return urljoin(base_url, path)
-
-def get_all_country_pages():
-    has_next = True
-
-    current = requests.get(get_url('/places/default/index'))
-    data = []
-
-    while has_next:
-        bs = BeautifulSoup(current.text, 'html.parser')
-        pages = [get_url(link['href']) for link in bs.find('table').find_all('a')]
-        next_element = bs.find('a', text='Next >')
-        data.extend(pages)
-
-        # se houver próxima página, pega o link dela
-        # se não, finaliza o while
-        if next_element:
-            current = requests.get(get_url(next_element['href']))
-        else:
-            has_next = False
-    
-    return data
 
 def process_country_page(url):
     try:
@@ -69,10 +48,11 @@ def process_country_page(url):
 data = []
 
 # Coletar todas as páginas de países
-country_pages = get_all_country_pages()
+country_pages = helper.get_all_country_pages()
 
 # Processar cada página de país
 for country_page in country_pages:
+    print(f"Processando {country_page}")
     process_country_page(country_page)
 
 # Converter a lista em um DataFrame do pandas

@@ -1,9 +1,6 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 from bs4 import BeautifulSoup
 import requests
-from urlparse import urljoin
+from urllib.parse import urljoin
 
 # Script para coletar as páginas de países
 base_url = 'http://127.0.0.1:8000'

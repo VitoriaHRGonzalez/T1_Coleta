@@ -107,12 +107,12 @@ def save_to_json(filmes, filename="filmes_imdb.json"):
 if __name__ == "__main__":
     filmes = get_filmes_lancamentos()
 
-    # for f in filmes:
-    #     print(
-    #         "Título: {}\nData de Lançamento: {}\nGênero(s): {}\nLink: {}\n\n".format(
-    #             f["title"], f["date"], f["genres"], f["link"]
-    #         )
-    #     )
+    for f in filmes:
+        print(
+             "Título: {}\nData de Lançamento: {}\nGênero(s): {}\nLink: {}\n\n".format(
+                 f["title"], f["date"], f["genres"], f["link"]
+             )
+         )
 
     # Obter detalhes para cada filme e salvar em JSON
     for filme in filmes:
