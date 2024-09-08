@@ -10,12 +10,9 @@ def get_url(path):
 
 def get_all_country_pages():
     has_next = True
-
+    data = []
     # pagina inicial
     current = requests.get(get_url('/places/default/index'))
-
-    data = []
-
     while(has_next):
         # pega o conteúdo da página
         bs = BeautifulSoup(current.text, 'html.parser')
