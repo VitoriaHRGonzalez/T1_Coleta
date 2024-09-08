@@ -107,11 +107,7 @@ if __name__ == "__main__":
     filmes = get_movies()
 
     for f in filmes:
-        print(
-             "Título: {}\nData de Lançamento: {}\nGênero(s): {}\nLink: {}\n\n".format(
-                 f["title"], f["date"], f["genres"], f["link"]
-             )
-         )
+        print(f"Título: {f['title']}\nData de Lançamento: {f['date']}\nGênero(s): {f['genres']}\nLink: {f['link']}\n\n")
 
     # Obter detalhes para cada filme e salvar em JSON
     for filme in filmes:
