@@ -10,7 +10,7 @@ import json
 # Devem ser obtidos: Título, Data de Lançamento, Gênero(s) e o link para página da série
 
 
-def get_filmes_lancamentos():
+def get_movies():
     base_url = "https://www.imdb.com/calendar/?ref_=rlm&region=BR"
     headers = {
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
@@ -19,7 +19,6 @@ def get_filmes_lancamentos():
     response = requests.get(base_url, headers=headers)
     bs = BeautifulSoup(response.text, "html.parser")
     articles = bs.find_all("article", class_="fyabhQ")
-
     filmes = []
 
     for a in articles:
@@ -32,7 +31,7 @@ def get_filmes_lancamentos():
                 genre_list = [li.text for li in genres.find_all("li")]
                 genre_text = ", ".join(genre_list)
             else:
-                genre_text = "N/A"
+                genre_text = "Não Contém"
 
             link = "https://www.imdb.com{}".format(
                 div.find("a", class_="ipc-metadata-list-summary-item__t")["href"]
@@ -105,7 +104,7 @@ def save_to_json(filmes, filename="filmes_imdb.json"):
 
 # main
 if __name__ == "__main__":
-    filmes = get_filmes_lancamentos()
+    filmes = get_movies()
 
     for f in filmes:
         print(

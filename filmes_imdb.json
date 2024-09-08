@@ -1,276 +1,31 @@
 [
     {
-        "title": "Longlegs: Vínculo Mortal (2024)",
-        "date": "Aug 29, 2024",
-        "genres": "Crime, Horror, Thriller",
-        "link": "https://www.imdb.com/title/tt23468450/?ref_=rlm",
+        "title": "Shark Warning (2024)",
+        "date": "Sep 10, 2024",
+        "genres": "Action, Thriller",
+        "link": "https://www.imdb.com/title/tt32990776/?ref_=rlm",
         "director(s)": [
-            "Osgood Perkins"
+            "Jimmy Gadd"
         ],
         "main cast": [
-            "Maika Monroe",
-            "Nicolas Cage",
-            "Blair Underwood",
-            "Alicia Witt",
-            "Michelle Choi-Lee",
-            "Dakota Daulby",
-            "Lauren Acala",
-            "Kiernan Shipka",
-            "Maila Hosie",
-            "Jason William Day",
-            "Lisa Chandler",
-            "Ava Kelders",
-            "Rryla McIntosh",
-            "Carmel Amit",
-            "Shafin Karim",
-            "Trey Helten",
-            "Daniel Bacon",
-            "Vanessa Walsh"
-        ]
-    },
-    {
-        "title": "AfrAId (2024)",
-        "date": "Aug 29, 2024",
-        "genres": "Horror, Mystery, Sci-Fi",
-        "link": "https://www.imdb.com/title/tt24577462/?ref_=rlm",
-        "director(s)": [
-            "Chris Weitz"
-        ],
-        "main cast": [
-            "John Cho",
-            "Katherine Waterston",
-            "Keith Carradine",
-            "Havana Rose Liu",
-            "Lukita Maxwell",
-            "Ashley Romans",
-            "David Dastmalchian",
-            "Wyatt Lindner",
-            "Isaac Bae",
-            "Bennett Curran",
-            "Greg Hill",
-            "Riki Lindhome",
-            "Ashton Essex Bright",
-            "Mason Shea Joyce",
-            "River Drosche",
-            "Todd Waring",
-            "Simon Craig Raynes",
-            "Rogelio Douglas III"
-        ]
-    },
-    {
-        "title": "Sting: Aranha Assassina (2024)",
-        "date": "Aug 29, 2024",
-        "genres": "Horror, Sci-Fi, Thriller",
-        "link": "https://www.imdb.com/title/tt20112746/?ref_=rlm",
-        "director(s)": [
-            "Kiah Roache-Turner"
-        ],
-        "main cast": [
-            "Noni Hazlehurst",
-            "Jermaine Fowler",
-            "Alyla Browne",
-            "Robyn Nevin",
-            "Ryan Corr",
-            "Kate Walsh",
-            "Penelope Mitchell",
-            "Jett Berry",
-            "Kade Berry",
-            "Silvia Colloca",
-            "Lee Perry",
-            "Danny Kim",
-            "Tony J Black",
-            "Alcira Carpio",
-            "Rowland Holmes"
-        ]
-    },
-    {
-        "title": "A Caça (2024)",
-        "date": "Aug 29, 2024",
-        "genres": "Horror, Thriller",
-        "link": "https://www.imdb.com/title/tt22493538/?ref_=rlm",
-        "director(s)": [
-            "Louis Lagayette"
-        ],
-        "main cast": [
-            "Lily Banda",
-            "Alec Newman",
-            "Kostis Kallivretakis",
-            "Vassilis Koukalani",
-            "Mylène Jampanoï",
-            "Raj Bajaj",
-            "Daphne Alexander",
-            "Pigmalion Dadakaridis",
-            "Argyris Gaganis",
-            "Marlene Kaminsky",
-            "Aurora Marion",
-            "Ayman Al Aboud"
-        ]
-    },
-    {
-        "title": "Estômago II: O Poderoso Chef (2024)",
-        "date": "Aug 29, 2024",
-        "genres": "Comedy, Crime, Drama",
-        "link": "https://www.imdb.com/title/tt28281591/?ref_=rlm",
-        "director(s)": [
-            "Marcos Jorge"
-        ],
-        "main cast": [
-            "Alessandro Andolfo",
-            "Giulio Beranek",
-            "Francesco Bonomo",
-            "Luiz Brambilla",
-            "Wenry Bueno",
-            "Edson Carneiro",
-            "Altamar Cezar",
-            "Sidy Correa",
-            "Stephan Cris",
-            "Rodrigo Ferrarini",
-            "Jeff Franco",
-            "Giorgio Gobbi",
-            "Leonardo Goulart",
-            "Gioia Grasso",
-            "Pedro Inoue",
-            "Maurizio Jiritano",
-            "Francesco La Mantia",
-            "Marisa Laurito"
-        ]
-    },
-    {
-        "title": "Cidade; Campo (2024)",
-        "date": "Aug 29, 2024",
-        "genres": "Drama, Mystery",
-        "link": "https://www.imdb.com/title/tt30858110/?ref_=rlm",
-        "director(s)": [
-            "Juliana Rojas"
-        ],
-        "main cast": [
-            "Fernanda Vianna",
-            "Mirella Façanha",
-            "Bruna Linzmeyer",
-            "Kalleb Oliveira",
-            "Andrea Marquee",
-            "Preta Ferreira",
-            "Marcos de Andrade",
-            "Nilcéia Vicente",
-            "Raquel Ferreira",
-            "Maya de Paiva",
-            "Rita Niza",
-            "Brenda Lígia",
-            "Majeca Angelucci",
-            "Felipe Kenji",
-            "Andréia Pires"
-        ]
-    },
-    {
-        "title": "Os Fantasmas Ainda se Divertem - Beetlejuice Beetlejuice (2024)",
-        "date": "Sep 05, 2024",
-        "genres": "Comedy, Fantasy, Horror",
-        "link": "https://www.imdb.com/title/tt2049403/?ref_=rlm",
-        "director(s)": [
-            "Tim Burton"
-        ],
-        "main cast": [
-            "Michael Keaton",
-            "Winona Ryder",
-            "Catherine O'Hara",
-            "Jenna Ortega",
-            "Justin Theroux",
-            "Willem Dafoe",
-            "Monica Bellucci",
-            "Arthur Conti",
-            "Nick Kellington",
-            "Santiago Cabrera",
-            "Burn Gorman",
-            "Danny DeVito",
-            "Sami Slimane",
-            "Amy Nuttall",
-            "Mark Heenehan",
-            "Charlie Hopkinson",
-            "Liv Spencer",
-            "Skylar Park"
-        ]
-    },
-    {
-        "title": "Kill - O Massacre no Trem (2023)",
-        "date": "Sep 05, 2024",
-        "genres": "Action, Crime, Drama",
-        "link": "https://www.imdb.com/title/tt28259207/?ref_=rlm",
-        "director(s)": [
-            "Nikhil Nagesh Bhat"
-        ],
-        "main cast": [
-            "Lakshya",
-            "Raghav Juyal",
-            "Tanya Maniktala",
-            "Abhishek Chauhan",
-            "Ashish Vidyarthi",
-            "Pratap Verma",
-            "Harsh Chhaya",
-            "Adrija Sinha",
-            "Meenal Kapoor",
-            "Mukesh Chandelia",
-            "Madhu Raja",
-            "Arun Thakur",
-            "Aman Bal",
-            "Jatinder",
-            "Vipan Dhavan",
-            "Tajinder",
-            "Janvi Bansal",
-            "Nandini"
-        ]
-    },
-    {
-        "title": "O Menino e o Mestre (2023)",
-        "date": "Sep 05, 2024",
-        "genres": "Animation, Adventure",
-        "link": "https://www.imdb.com/title/tt5674658/?ref_=rlm",
-        "director(s)": [
-            "Neil Boyle",
-            "Kirk Hendry"
-        ],
-        "main cast": [
-            "Cillian Murphy",
-            "Sally Hawkins",
-            "Raffey Cassidy",
-            "Ken Watanabe",
-            "Aaron MacGregor",
-            "Kotoko Wertheim"
-        ]
-    },
-    {
-        "title": "Corrida Maluca (2023)",
-        "date": "Sep 05, 2024",
-        "genres": "Animation, Comedy, Family",
-        "link": "https://www.imdb.com/title/tt8417168/?ref_=rlm",
-        "director(s)": [
-            "Ross Venokur"
-        ],
-        "main cast": [
-            "Jimmy O. Yang",
-            "J.K. Simmons",
-            "Chloe Bennet",
-            "Lisa Lu",
-            "Sharon Horgan",
-            "Catherine Tate",
-            "John Cleese",
-            "Nick Heath",
-            "Naomi McDonald",
-            "Rebecca Yeo",
-            "Raza Jaffrey",
-            "Alexander Rodriguez",
-            "Kerry Shale"
-        ]
-    },
-    {
-        "title": "Vovó Ninja (2024)",
-        "date": "Sep 05, 2024",
-        "genres": "Comedy",
-        "link": "https://www.imdb.com/title/tt20221070/?ref_=rlm",
-        "director(s)": [
-            "Bruno Barreto"
-        ],
-        "main cast": [
-            "Glória Pires"
+            "David Chokachi",
+            "Andrew J Katers",
+            "Angela Cole",
+            "Rebecca Ritz",
+            "Canyon Prince",
+            "Lauren Pike",
+            "James Dash",
+            "Linh Bui",
+            "Deon Sams",
+            "Doug Jeffery",
+            "Andi Rexha",
+            "Jonas Silbor",
+            "Gordon Mudd",
+            "Stephen Girouard",
+            "Katie Allen",
+            "Kiera Alvidrez",
+            "Torrey Anderson",
+            "Mark Joshua Bennett"
         ]
     },
     {
@@ -319,35 +74,6 @@
         ]
     },
     {
-        "title": "Meu Amigo Pinguim (2024)",
-        "date": "Sep 12, 2024",
-        "genres": "Drama, Family",
-        "link": "https://www.imdb.com/title/tt8609660/?ref_=rlm",
-        "director(s)": [
-            "David Schurmann"
-        ],
-        "main cast": [
-            "Jean Reno",
-            "Adriana Barraza",
-            "Alexia Moyano",
-            "Nicolás Francella",
-            "Rochi Hernández",
-            "Juan José Garnica",
-            "Duda Galvão",
-            "Ravel Cabral",
-            "Roberto Borenstein",
-            "Ellen C. Camp",
-            "Pedro Caetano",
-            "Thalma de Freitas",
-            "Fernando Lufer",
-            "Amanda Magalhães",
-            "Rafael Pimenta",
-            "Juan Queiroz",
-            "Wilson Rabelo",
-            "José Trassi"
-        ]
-    },
-    {
         "title": "O Bastardo (2023)",
         "date": "Sep 12, 2024",
         "genres": "Action, Biography, Drama",
@@ -377,6 +103,35 @@
         ]
     },
     {
+        "title": "Meu Amigo Pinguim (2024)",
+        "date": "Sep 12, 2024",
+        "genres": "Drama, Family",
+        "link": "https://www.imdb.com/title/tt8609660/?ref_=rlm",
+        "director(s)": [
+            "David Schurmann"
+        ],
+        "main cast": [
+            "Jean Reno",
+            "Adriana Barraza",
+            "Alexia Moyano",
+            "Nicolás Francella",
+            "Rochi Hernández",
+            "Juan José Garnica",
+            "Duda Galvão",
+            "Ravel Cabral",
+            "Roberto Borenstein",
+            "Ellen C. Camp",
+            "Pedro Caetano",
+            "Thalma de Freitas",
+            "Fernando Lufer",
+            "Amanda Magalhães",
+            "Rafael Pimenta",
+            "Juan Queiroz",
+            "Wilson Rabelo",
+            "José Trassi"
+        ]
+    },
+    {
         "title": "Ligação Sombria (2023)",
         "date": "Sep 12, 2024",
         "genres": "Action, Thriller",
@@ -395,6 +150,35 @@
             "Nancy Good",
             "Kaiwi Lyman",
             "Bonnie Mercado"
+        ]
+    },
+    {
+        "title": "Um Silêncio (2023)",
+        "date": "Sep 12, 2024",
+        "genres": "Drama",
+        "link": "https://www.imdb.com/title/tt25051484/?ref_=rlm",
+        "director(s)": [
+            "Joachim Lafosse"
+        ],
+        "main cast": [
+            "Daniel Auteuil",
+            "Emmanuelle Devos",
+            "Matthieu Galoux",
+            "Jeanne Cherhal",
+            "Louise Chevillotte",
+            "Nicolas Buysse",
+            "Karim Barras",
+            "Larisa Faber",
+            "Baptiste Sornin",
+            "Shann Case",
+            "Massimo Riggi",
+            "Colette Kieffer",
+            "Elsa Rauchs",
+            "Jonas Wertz",
+            "Ismaël Michiels",
+            "Damien Bonnard",
+            "Magali Pinglaut",
+            "Laure Hemmer"
         ]
     },
     {
@@ -424,35 +208,6 @@
             "Adriana Agra",
             "Míriam Braga",
             "João Bourbonnais"
-        ]
-    },
-    {
-        "title": "Un silence (2023)",
-        "date": "Sep 12, 2024",
-        "genres": "Drama",
-        "link": "https://www.imdb.com/title/tt25051484/?ref_=rlm",
-        "director(s)": [
-            "Joachim Lafosse"
-        ],
-        "main cast": [
-            "Daniel Auteuil",
-            "Emmanuelle Devos",
-            "Matthieu Galoux",
-            "Jeanne Cherhal",
-            "Louise Chevillotte",
-            "Nicolas Buysse",
-            "Karim Barras",
-            "Larisa Faber",
-            "Baptiste Sornin",
-            "Shann Case",
-            "Massimo Riggi",
-            "Colette Kieffer",
-            "Elsa Rauchs",
-            "Jonas Wertz",
-            "Ismaël Michiels",
-            "Damien Bonnard",
-            "Magali Pinglaut",
-            "Laure Hemmer"
         ]
     },
     {
@@ -493,6 +248,7 @@
             "Ken Bevel",
             "Joseph Curtis Callender",
             "Dylan Cruz",
+            "Janet Lee Dapper",
             "Jonathan Evans",
             "Brendan Goshay",
             "Marianne Haaland",
@@ -501,28 +257,7 @@
             "Sharonne Lanier",
             "Stephen C. Lewis",
             "McKalin",
-            "Willie Mellina",
-            "William Oliver"
-        ]
-    },
-    {
-        "title": "Hellboy e o Homem Torto (2024)",
-        "date": "Sep 19, 2024",
-        "genres": "Action, Horror",
-        "link": "https://www.imdb.com/title/tt26757462/?ref_=rlm",
-        "director(s)": [
-            "Brian Taylor"
-        ],
-        "main cast": [
-            "Jack Kesy",
-            "Jefferson White",
-            "Joseph Marcell",
-            "Leah McNamara",
-            "Adeline Rudolph",
-            "Martin Bassindale",
-            "Nathan Cooper",
-            "Hannah Margetson",
-            "Carola Colombo"
+            "Willie Mellina"
         ]
     },
     {
@@ -555,36 +290,7 @@
         ]
     },
     {
-        "title": "Passagrana (2024)",
-        "date": "Sep 19, 2024",
-        "genres": "Comedy",
-        "link": "https://www.imdb.com/title/tt28670660/?ref_=rlm",
-        "director(s)": [
-            "Ravel Cabral"
-        ],
-        "main cast": [
-            "Carol Castro",
-            "Luciana Paes",
-            "Giovanna Grigio",
-            "Caco Ciocler",
-            "Irene Ravache",
-            "Ravel Cabral",
-            "José Trassi",
-            "João Paulo Bienermann",
-            "Juan Queiroz",
-            "Wagner Santisteban",
-            "Sabrina Nonata",
-            "Gabriel Muglia",
-            "Fernando Rubro",
-            "Leandro Ramos",
-            "Wesley Guimarães",
-            "Michel Pereira",
-            "Márcia de Oliveira",
-            "Marco Luque"
-        ]
-    },
-    {
-        "title": "Saudade fez Morada aqui Dentro (2022)",
+        "title": "Saudade Fez Morada Aqui Dentro (2022)",
         "date": "Sep 19, 2024",
         "genres": "Drama",
         "link": "https://www.imdb.com/title/tt23036540/?ref_=rlm",
@@ -597,6 +303,35 @@
             "Ronnaldy Gomes",
             "Terena França",
             "Wilma Macêdo"
+        ]
+    },
+    {
+        "title": "Passagrana (2024)",
+        "date": "Sep 19, 2024",
+        "genres": "Comedy",
+        "link": "https://www.imdb.com/title/tt28670660/?ref_=rlm",
+        "director(s)": [
+            "Ravel Cabral"
+        ],
+        "main cast": [
+            "Carol Castro",
+            "Giovanna Grigio",
+            "Luciana Paes",
+            "Irene Ravache",
+            "Ravel Cabral",
+            "Caco Ciocler",
+            "Leandro Ramos",
+            "Michel Pereira",
+            "José Trassi",
+            "Ernani Sanchez",
+            "Victor Hugo Sorrentino",
+            "Fred Steffen",
+            "Wagner Santisteban",
+            "Wesley Guimarães",
+            "Iuri Saraiva",
+            "Celso 'Not Dead' Camargo",
+            "Elzio Vieira",
+            "Márcia de Oliveira"
         ]
     },
     {
@@ -629,6 +364,58 @@
         ]
     },
     {
+        "title": "Sumala (2024)",
+        "date": "Sep 25, 2024",
+        "genres": "Horror, Thriller",
+        "link": "https://www.imdb.com/title/tt31592660/?ref_=rlm",
+        "director(s)": [
+            "Rizal Mantovani"
+        ],
+        "main cast": [
+            "Luna Maya",
+            "Darius Sinathrya",
+            "Makayla Rose Hilli",
+            "Ivonne Dahler",
+            "Denino Basrial"
+        ]
+    },
+    {
+        "title": "Look Back (2024)",
+        "date": "Sep 26, 2024",
+        "genres": "Animation, Drama",
+        "link": "https://www.imdb.com/title/tt31711040/?ref_=rlm",
+        "director(s)": [
+            "Kiyotaka Oshiyama"
+        ],
+        "main cast": [
+            "Yumi Kawai",
+            "Mizuki Yoshida"
+        ]
+    },
+    {
+        "title": "The Pandemic Dilemma (2024)",
+        "date": "Sep 26, 2024",
+        "genres": "Comedy, Drama, Horror",
+        "link": "https://www.imdb.com/title/tt13394452/?ref_=rlm",
+        "director(s)": [
+            "Thiago Moyses"
+        ],
+        "main cast": [
+            "Titus Milo Leon",
+            "Wol Nunnes",
+            "Bayard Tonelli",
+            "Timm Martins",
+            "Ricardo Movits",
+            "Roberto Rowntree",
+            "Chris Dantas",
+            "Ricardo Raposo",
+            "Suzana Maria",
+            "Angélica Dos Santos",
+            "Rosângela Corriça",
+            "Radha Nicihoka"
+        ]
+    },
+    {
         "title": "Coringa: Delírio a Dois (2024)",
         "date": "Oct 04, 2024",
         "genres": "Crime, Drama, Musical",
@@ -645,16 +432,16 @@
             "Brendan Gleeson",
             "Harry Lawtey",
             "Steve Coogan",
-            "Jacob Lofland",
             "Gattlin Griffith",
+            "Jacob Lofland",
+            "Mac Brandt",
             "Bill Smitrovich",
-            "George Carroll",
             "John Lacy",
-            "Leigh Gill",
+            "George Carroll",
             "Tim Dillon",
-            "Sharon Washington",
             "Mike Houston",
-            "G.L. McQueary"
+            "Leigh Gill",
+            "Sharon Washington"
         ]
     },
     {
@@ -667,14 +454,72 @@
         ],
         "main cast": [
             "Halle Berry",
-            "Matthew Kevin Anderson",
-            "Christin Park",
             "Stephanie Lavigne",
             "Anthony B. Jenkins",
-            "Mila Morgan",
+            "Christin Park",
+            "Matthew Kevin Anderson",
             "Percy Daggs IV",
-            "Cadence Compton",
-            "Georges Gracieuse"
+            "Mila Morgan",
+            "Georges Gracieuse",
+            "Cadence Compton"
+        ]
+    },
+    {
+        "title": "Pássaro Branco: Uma História de Extraordinário (2023)",
+        "date": "Oct 10, 2024",
+        "genres": "Adventure, Biography, Drama",
+        "link": "https://www.imdb.com/title/tt11068094/?ref_=rlm",
+        "director(s)": [
+            "Marc Forster"
+        ],
+        "main cast": [
+            "Gillian Anderson",
+            "Helen Mirren",
+            "Bryce Gheisar",
+            "Olivia Ross",
+            "Patsy Ferran",
+            "Jo Stone-Fewings",
+            "Stuart McQuarrie",
+            "Ariella Glaser",
+            "Orlando Schwerdt",
+            "John Bubniak",
+            "Nadine Leon Gobet",
+            "Jim High",
+            "Ishai Golan",
+            "Philip Lenkowsky",
+            "Teagan Stark",
+            "Jem Matthews",
+            "Jeremy Tichy",
+            "James Beaumont"
+        ]
+    },
+    {
+        "title": "A Garota da Vez (2023)",
+        "date": "Oct 10, 2024",
+        "genres": "Crime, Drama, Mystery",
+        "link": "https://www.imdb.com/title/tt7737800/?ref_=rlm",
+        "director(s)": [
+            "Anna Kendrick"
+        ],
+        "main cast": [
+            "Anna Kendrick",
+            "Tony Hale",
+            "Jedidiah Goodacre",
+            "Daniel Zovatto",
+            "Kelley Jakle",
+            "Max Lloyd-Jones",
+            "Matthew Kevin Anderson",
+            "Geoff Gustafson",
+            "Dylan Schmid",
+            "Matty Finochio",
+            "Kathryn Gallagher",
+            "Matt Visser",
+            "Nicolette Robinson",
+            "Jason Simpson",
+            "Jessie Fraser",
+            "Darcy Laurie",
+            "Michael Jonsson",
+            "Taylor Hastings"
         ]
     },
     {
@@ -704,64 +549,6 @@
             "Abdelkader Bounoir",
             "Karim Daoues",
             "Christine Kay"
-        ]
-    },
-    {
-        "title": "A Garota da Vez (2023)",
-        "date": "Oct 10, 2024",
-        "genres": "Crime, Drama, Mystery",
-        "link": "https://www.imdb.com/title/tt7737800/?ref_=rlm",
-        "director(s)": [
-            "Anna Kendrick"
-        ],
-        "main cast": [
-            "Anna Kendrick",
-            "Tony Hale",
-            "Jedidiah Goodacre",
-            "Kelley Jakle",
-            "Daniel Zovatto",
-            "Max Lloyd-Jones",
-            "Dylan Schmid",
-            "Geoff Gustafson",
-            "Kathryn Gallagher",
-            "Jason Simpson",
-            "Matt Visser",
-            "Matty Finochio",
-            "Matthew Kevin Anderson",
-            "Nicolette Robinson",
-            "Jessie Fraser",
-            "Darcy Laurie",
-            "Autumn Best",
-            "Michael Jonsson"
-        ]
-    },
-    {
-        "title": "Pássaro Branco: Uma História de Extraordinário (2023)",
-        "date": "Oct 10, 2024",
-        "genres": "Adventure, Biography, Drama",
-        "link": "https://www.imdb.com/title/tt11068094/?ref_=rlm",
-        "director(s)": [
-            "Marc Forster"
-        ],
-        "main cast": [
-            "Gillian Anderson",
-            "Helen Mirren",
-            "Bryce Gheisar",
-            "Olivia Ross",
-            "Patsy Ferran",
-            "Jo Stone-Fewings",
-            "Orlando Schwerdt",
-            "Ariella Glaser",
-            "Stuart McQuarrie",
-            "John Bubniak",
-            "Jim High",
-            "Philip Lenkowsky",
-            "Ishai Golan",
-            "Nadine Leon Gobet",
-            "Teagan Stark",
-            "Karolina Lea Novakova",
-            "James Beaumont",
-            "Jem Matthews"
         ]
     },
     {
@@ -836,40 +623,18 @@
             "Gabriella Saraivah",
             "Gabz",
             "Pietra Quintela",
+            "Lucas Burgatti",
             "Bela Fernandes",
             "Bárbara Maia",
-            "Lucas Burgatti",
-            "Caio Manhente",
             "Thalita Rebouças",
+            "Laura Castro",
+            "Caio Manhente",
             "Angela Paz",
-            "Clarissa Müller",
             "Maitê Padilha",
-            "João Manoel",
             "Hugo Gloss",
             "Ester Dias",
-            "Laura Castro"
-        ]
-    },
-    {
-        "title": "Sorria 2 (2024)",
-        "date": "Oct 17, 2024",
-        "genres": "Horror, Mystery, Thriller",
-        "link": "https://www.imdb.com/title/tt29268110/?ref_=rlm",
-        "director(s)": [
-            "Parker Finn"
-        ],
-        "main cast": [
-            "Kyle Gallner",
-            "Naomi Scott",
-            "Rosemarie DeWitt",
-            "Lukas Gage",
-            "Dylan Gelula",
-            "Peter Jacobson",
-            "Raúl Castillo",
-            "Daphne Zelle",
-            "Miles Gutierrez-Riley",
-            "Zebedee Row",
-            "Micaela Lamas"
+            "João Manoel",
+            "Clarissa Müller"
         ]
     },
     {
@@ -929,25 +694,51 @@
         ]
     },
     {
+        "title": "Sorria 2 (2024)",
+        "date": "Oct 17, 2024",
+        "genres": "Horror, Mystery, Thriller",
+        "link": "https://www.imdb.com/title/tt29268110/?ref_=rlm",
+        "director(s)": [
+            "Parker Finn"
+        ],
+        "main cast": [
+            "Kyle Gallner",
+            "Naomi Scott",
+            "Drew Barrymore",
+            "Rosemarie DeWitt",
+            "Lukas Gage",
+            "Dylan Gelula",
+            "Raúl Castillo",
+            "Peter Jacobson",
+            "Ray Nicholson",
+            "Daphne Zelle",
+            "Miles Gutierrez-Riley",
+            "Delphi Harrington",
+            "Zebedee Row",
+            "Micaela Lamas",
+            "David Peter White"
+        ]
+    },
+    {
         "title": "Perfekta: Uma Aventura da Escola de Gênios (2024)",
         "date": "Oct 17, 2024",
-        "genres": "N/A",
+        "genres": "Não Contém",
         "link": "https://www.imdb.com/title/tt31842940/?ref_=rlm",
         "director(s)": [
             "João Daniel Tikhomiroff"
         ],
         "main cast": [
             "Rômulo Estrela",
-            "Daniel Dantas",
             "Roberto Birindelli",
-            "Kaik Pereira",
-            "Júlia Mendes",
-            "Enzo Ignacio",
+            "Daniel Dantas",
             "Barbara Coura",
+            "Enzo Ignacio",
+            "Júlia Mendes",
             "Sophia Rosa",
-            "Ana Carolina Leite",
             "Stella Camargo",
-            "Murilo Gricolo"
+            "Ana Carolina Leite",
+            "Murilo Gricolo",
+            "Kaik Pereira"
         ]
     },
     {
@@ -961,9 +752,9 @@
         "main cast": [
             "Tom Hardy",
             "Juno Temple",
-            "Rhys Ifans",
             "Alanna Ubach",
             "Stephen Graham",
+            "Rhys Ifans",
             "Chiwetel Ejiofor",
             "Cristo Fernández",
             "Clark Backo",
@@ -984,23 +775,23 @@
         ],
         "main cast": [
             "Carol Castro",
-            "Bruno Rapone",
-            "Nicola Siri",
             "Edson Celulari",
             "Néstor Guzzini",
-            "Gabrielle Fleck",
+            "Nicola Siri",
             "Lucas Zaffari",
-            "Henrique Guimarães",
+            "Gabrielle Fleck",
             "Roberto Rios",
-            "Ícaro Cabral",
-            "Suzi Martinez",
-            "Natália Sacramento",
-            "Mariana Catalane",
-            "Jessica Trintin",
-            "Rogério Beretta",
-            "Karen Lourenzi",
+            "Bruno Rapone",
+            "Henrique Guimarães",
+            "Juan Manuel Tellategui",
             "Guilherme Varani",
-            "Susana Scherer"
+            "Jessica Trintin",
+            "Suzi Martinez",
+            "Ícaro Cabral",
+            "Mariana Catalane",
+            "Rogério Beretta",
+            "Liane Venturella",
+            "Natália Sacramento"
         ]
     },
     {
@@ -1041,53 +832,24 @@
             "Damien Leone"
         ],
         "main cast": [
-            "Jason Patric",
-            "Daniel Roebuck",
             "David Howard Thornton",
             "Lauren LaVera",
+            "Jason Patric",
+            "Daniel Roebuck",
             "Charlotte McKee",
             "Bryce Johnson",
             "Samantha Scaffidi",
+            "Alexa Blair Robertson",
+            "Elliott Fullam",
             "Bradley Stryker",
             "Chris Jericho",
-            "Elliott Fullam",
             "Krsy Fox",
             "Sienna Hubert-Ross",
-            "Alexa Blair Robertson",
             "Antonella Rose",
+            "Mason Mecartea",
             "Margaret Anne Florence",
             "Chip Carriere",
-            "Luciana VanDette",
-            "Mason Mecartea"
-        ]
-    },
-    {
-        "title": "Todo Tempo que Temos (2024)",
-        "date": "Oct 31, 2024",
-        "genres": "Drama, Romance",
-        "link": "https://www.imdb.com/title/tt27131358/?ref_=rlm",
-        "director(s)": [
-            "John Crowley"
-        ],
-        "main cast": [
-            "Andrew Garfield",
-            "Florence Pugh",
-            "Grace Delaney",
-            "Lee Braithwaite",
-            "Aoife Hinds",
-            "Adam James",
-            "Douglas Hodge",
-            "Amy Morgan",
-            "Niamh Cusack",
-            "Lucy Briers",
-            "Robert Boulter",
-            "Nikhil Parmar",
-            "Kerry Godliman",
-            "Heather Craney",
-            "Matt Kennard",
-            "Sam Kennard",
-            "Saroja-Lily Ratnavel",
-            "Laura Guest"
+            "Luciana VanDette"
         ]
     },
     {
@@ -1120,6 +882,35 @@
         ]
     },
     {
+        "title": "Todo Tempo que Temos (2024)",
+        "date": "Oct 31, 2024",
+        "genres": "Drama, Romance",
+        "link": "https://www.imdb.com/title/tt27131358/?ref_=rlm",
+        "director(s)": [
+            "John Crowley"
+        ],
+        "main cast": [
+            "Andrew Garfield",
+            "Florence Pugh",
+            "Grace Delaney",
+            "Lee Braithwaite",
+            "Aoife Hinds",
+            "Adam James",
+            "Douglas Hodge",
+            "Amy Morgan",
+            "Niamh Cusack",
+            "Lucy Briers",
+            "Robert Boulter",
+            "Nikhil Parmar",
+            "Kerry Godliman",
+            "Heather Craney",
+            "Matt Kennard",
+            "Sam Kennard",
+            "Saroja-Lily Ratnavel",
+            "Laura Guest"
+        ]
+    },
+    {
         "title": "Ameaça no Ar (2024)",
         "date": "Oct 31, 2024",
         "genres": "Thriller",
@@ -1148,22 +939,22 @@
         ],
         "main cast": [
             "Franz Rogowski",
-            "Valentina Bellè",
             "Joel Basman",
-            "Philippe Graber",
+            "Valentina Bellè",
             "Noémi Besedes",
+            "Philippe Graber",
+            "Francesco Limenta",
             "Diego Benzoni",
             "Christophe Sermet",
-            "Anina Sara Baumgartner",
             "Cecilia Steiner",
-            "Roman Weishaupt",
-            "Federica Garavaglia",
-            "Oliver Ewy",
-            "Jörg Reichlin",
-            "Francesco Limenta",
             "Filippo Giulini",
             "Christian Bianco",
+            "Jörg Reichlin",
+            "Oliver Ewy",
             "Eva Kuen",
+            "Anina Sara Baumgartner",
+            "Roman Weishaupt",
+            "Federica Garavaglia",
             "Alessandro Zappella"
         ]
     },
@@ -1178,19 +969,19 @@
         "main cast": [
             "Karine Teles",
             "Camila Márdila",
-            "Felipe Rocha",
             "Alice Wegmann",
+            "Felipe Rocha",
+            "Tulio Starling",
             "Antonio Pitanga",
+            "Otto Jr.",
             "Stella Rabello",
             "Rodrigo García",
-            "Otto Jr.",
-            "Valentina Bandeira",
-            "Tulio Starling",
-            "Isabella Mariotto",
             "Ângela Rabello",
+            "Valentina Bandeira",
+            "Isabella Mariotto",
             "Laura Pessoa",
-            "Negro Leo",
-            "Bia Vivace"
+            "Bia Vivace",
+            "Negro Leo"
         ]
     },
     {
@@ -1259,12 +1050,12 @@
             "Connie Nielsen",
             "Paul Mescal",
             "Rory McCann",
+            "Peter Mensah",
             "Fred Hechinger",
             "Derek Jacobi",
-            "Tim McInnerny",
             "Matt Lucas",
             "May Calamawy",
-            "Peter Mensah",
+            "Tim McInnerny",
             "Lior Raz",
             "Alec Utgoff",
             "Alexander Karim",
@@ -1312,12 +1103,27 @@
             "Hugh Grant",
             "Sophie Thatcher",
             "Chloe East",
-            "Elle McKinnon",
             "Stephanie Lavigne",
-            "River Codack",
+            "Elle McKinnon",
+            "Elle Young",
             "Carolyn Adair",
-            "Haylie Hansen",
-            "Elle Young"
+            "River Codack",
+            "Haylie Hansen"
+        ]
+    },
+    {
+        "title": "Os Enforcados (2024)",
+        "date": "Nov 21, 2024",
+        "genres": "Thriller",
+        "link": "https://www.imdb.com/title/tt31332352/?ref_=rlm",
+        "director(s)": [
+            "Fernando Coimbra"
+        ],
+        "main cast": [
+            "Gustavo Arthidoro",
+            "Leandra Leal",
+            "Pêpê Rapazote",
+            "Irandhir Santos"
         ]
     },
     {
@@ -1332,8 +1138,8 @@
         ],
         "main cast": [
             "Dwayne Johnson",
-            "Auli'i Cravalho",
             "Alan Tudyk",
+            "Auli'i Cravalho",
             "Rachel House",
             "Temuera Morrison",
             "Nicole Scherzinger",
@@ -1369,9 +1175,9 @@
             "Colin Michael Carmichael",
             "Peter Dinklage",
             "James Dryden",
-            "Emily Tebbutt",
-            "Grecia De la Paz",
-            "Alfredo Tavares"
+            "Andy Nyman",
+            "Matthew Koon",
+            "Emily Tebbutt"
         ]
     },
     {
@@ -1385,26 +1191,26 @@
         "main cast": [
             "Tom Hanks",
             "Kelly Reilly",
-            "Daniel Betts",
             "Robin Wright",
             "Michelle Dockery",
             "Paul Bettany",
+            "Daniel Betts",
             "Ophelia Lovibond",
+            "Beau Gadsdon",
             "David Fynn",
             "Nikki Amuka-Bird",
-            "Beau Gadsdon",
             "Jonathan Aris",
-            "Dexter Sol Ansell",
             "Stuart Bowman",
             "Leslie Zemeckis",
-            "Lilly Aspell",
+            "Dexter Sol Ansell",
             "Lauren McQueen",
+            "Lilly Aspell",
             "Billie Gadsdon",
             "Joel Oulette"
         ]
     },
     {
-        "title": "A Complete Unknown (2024)",
+        "title": "Um Completo Desconhecido (2024)",
         "date": "Dec 01, 2024",
         "genres": "Biography, Drama, Music",
         "link": "https://www.imdb.com/title/tt11563598/?ref_=rlm",
@@ -1412,24 +1218,24 @@
             "James Mangold"
         ],
         "main cast": [
-            "Edward Norton",
             "Timothée Chalamet",
-            "Boyd Holbrook",
             "Elle Fanning",
+            "Edward Norton",
+            "Boyd Holbrook",
             "Monica Barbaro",
             "Scoot McNairy",
             "Dan Fogler",
             "Charlie Tahan",
-            "Joe Tippett",
             "Michael Chernus",
+            "Joe Tippett",
             "P.J. Byrne",
             "Norbert Leo Butz",
             "James Austin Johnson",
             "Kayli Carter",
             "David Alan Basche",
             "Will Harrison",
-            "Will Fitz",
-            "Eli Brown"
+            "Eli Brown",
+            "Will Fitz"
         ]
     },
     {
@@ -1474,19 +1280,19 @@
             "Ralph Fiennes",
             "Stanley Tucci",
             "John Lithgow",
-            "Isabella Rossellini",
             "Lucian Msamati",
-            "Brían F. O'Byrne",
-            "Merab Ninidze",
-            "Sergio Castellitto",
-            "Jacek Koman",
             "Carlos Diehz",
-            "Joseph Mydell",
+            "Sergio Castellitto",
+            "Isabella Rossellini",
+            "Jacek Koman",
             "Rony Kramer",
             "Loris Loddi",
             "Thomas Loibl",
-            "Jeremy Withrow",
-            "Giulio Schiffer"
+            "Joseph Mydell",
+            "Merab Ninidze",
+            "Brían F. O'Byrne",
+            "Giulio Schiffer",
+            "Jeremy Withrow"
         ]
     },
     {
@@ -1529,18 +1335,19 @@
         "main cast": [
             "Brian Cox",
             "Miranda Otto",
+            "Lorraine Ashbourne",
             "Shaun Dooley",
             "Luke Pasqualino",
             "Gaia Wise",
-            "Lorraine Ashbourne",
             "Janine Duvitski",
             "Benjamin Wainwright",
             "Michael Wildman",
             "Bilal Hasna",
             "Alex Jordan",
             "Jude Akuwudike",
+            "Yazdan Qafouri",
             "Laurence Ubong Williams",
-            "Yazdan Qafouri"
+            "Carlos Damasceno"
         ]
     },
     {
@@ -1552,24 +1359,24 @@
             "J.C. Chandor"
         ],
         "main cast": [
-            "Russell Crowe",
             "Aaron Taylor-Johnson",
-            "Fred Hechinger",
+            "Russell Crowe",
             "Christopher Abbott",
+            "Fred Hechinger",
             "Ariana DeBose",
             "Alessandro Nivola",
             "Levi Miller",
             "Billy Barratt",
             "Yuri Kolokolnikov",
+            "Elander Moore",
             "Chi Lewis-Parry",
             "Jessica Zhou",
             "Murat Seven",
-            "Elander Moore",
+            "Greg Kolpakchi",
+            "Robert Ryan",
             "Dritan Kastrati",
             "Rachel Handshaw",
-            "Filiz Fairweather",
-            "Robert Ryan",
-            "Greg Kolpakchi"
+            "Filiz Fairweather"
         ]
     },
     {
@@ -1594,11 +1401,11 @@
             "Anika Noni Rose",
             "Lennie James",
             "Beyoncé",
-            "Folake Olowofoyeku",
             "Tiffany Boone",
+            "Folake Olowofoyeku",
             "Preston Nyman",
             "Abdul Salis",
-            "Theo Somolu"
+            "Braelyn Rankins"
         ]
     },
     {
@@ -1612,22 +1419,22 @@
         "main cast": [
             "Alexander Skarsgård",
             "Kate Winslet",
-            "Andy Samberg",
             "Andrea Riseborough",
-            "Josh O'Connor",
+            "Andy Samberg",
             "Marion Cotillard",
+            "Josh O'Connor",
             "Noémie Merlant",
             "James Murray",
             "Samuel Barnett",
             "Enrique Arce",
             "Arinzé Kene",
-            "Riley Neldam",
             "Patrick Mille",
             "Zita Hanrot",
-            "Toni Gojanovic",
+            "Riley Neldam",
             "Vincent Colombe",
-            "Katalin Ruzsik",
-            "Harriet Leitch"
+            "Toni Gojanovic",
+            "Camilla Aiko",
+            "Anita Major"
         ]
     },
     {
@@ -1642,11 +1449,12 @@
         "main cast": [
             "Selton Mello",
             "Matheus Nachtergaele",
+            "Kauã Rodriguez",
             "Taís Araújo",
-            "Virginia Cavendish",
-            "Juliano Cazarré",
-            "Eduardo Sterblitch",
             "Fabiula Nascimento",
+            "Eduardo Sterblitch",
+            "Juliano Cazarré",
+            "Virginia Cavendish",
             "Humberto Martins",
             "Enrique Diaz",
             "Luellem de Castro",
@@ -1664,15 +1472,15 @@
         "main cast": [
             "Isaac Amendoim",
             "Débora Falabella",
-            "Guilherme Tavares",
             "Augusto Madeira",
-            "Davi Okabe",
+            "Guilherme Tavares",
             "Luis Lobianco",
-            "Igor Pushinov",
+            "Anna Julia Dias",
             "Lorena de Oliveira",
             "Enzo Henrique",
             "Pedro Dantas",
-            "Anna Julia Dias"
+            "Davi Okabe",
+            "Igor Pushinov"
         ]
     },
     {
@@ -1716,10 +1524,10 @@
             "Olivia Colman",
             "Emily Mortimer",
             "Antonio Banderas",
-            "Jim Broadbent",
             "Ben Whishaw",
-            "Imelda Staunton",
+            "Jim Broadbent",
             "Hugh Bonneville",
+            "Imelda Staunton",
             "Julie Walters",
             "Amit Shah",
             "Madeleine Harris",
@@ -1728,9 +1536,9 @@
             "Carla Tous",
             "Atilla Akinci",
             "Kat Collings",
-            "Vicente Wallenstein",
             "Hannah Veerapen",
-            "Chi Aloysius"
+            "Vicente Wallenstein",
+            "Lucia Chocarro"
         ]
     },
     {
@@ -1752,8 +1560,8 @@
             "Victoria Paige Watkins",
             "Joel Cohen",
             "Josh Whites",
-            "Beau Bommarito",
             "Justin William Davis",
+            "Beau Bommarito",
             "David Perks"
         ]
     },
@@ -1766,23 +1574,23 @@
             "José Alvarenga Jr."
         ],
         "main cast": [
-            "Hoji Fortuna",
             "Andréia Horta",
+            "Hoji Fortuna",
             "Antônio Fagundes",
             "Vanessa Giácomo",
-            "Guilherme Tavares",
-            "Laura Luz",
             "Lúcio Mauro Filho",
-            "Thiago Voltolini",
             "Augusto Madeira",
+            "Laura Luz",
             "Marcos Mion",
+            "Guilherme Tavares",
+            "Thiago Voltolini",
+            "Raimundo Moura",
             "Welder Rodrigues",
             "Marjorie Gerardi",
-            "Tiago Luchi",
-            "Mario Yamasaki",
             "Mateus Ramos",
             "Ricardo Ripa",
-            "Raimundo Moura"
+            "Mario Yamasaki",
+            "Tiago Luchi"
         ]
     },
     {
@@ -1827,17 +1635,17 @@
             "Steven Yeun",
             "Angus Imrie",
             "Thomas Turgoose",
-            "Daniel Henshall",
-            "Emily Tebbutt",
             "Steve Park",
+            "Daniel Henshall",
             "Patsy Ferran",
+            "Emily Tebbutt",
             "Stuart Whelan",
+            "Afolabi Alli",
             "Chelsea Li",
             "Spike White",
             "Michael Monroe",
             "Sam Woodhams",
-            "Tom Cawte",
-            "Milo James"
+            "Rose Shalloo"
         ]
     },
     {
@@ -1856,7 +1664,7 @@
             "Edgar Ramírez",
             "Mark Ivanir",
             "Eduardo Aladro",
-            "Emiliano Edmundo Hasan Jalil",
+            "Emiliano Hasan",
             "Gaël Murgia-Fur",
             "Tirso Pietriga",
             "Xiomara Melissa Ahumada Quito",
@@ -1882,15 +1690,15 @@
             "Giancarlo Esposito",
             "Liv Tyler",
             "Rosa Salazar",
-            "Anthony Mackie",
             "Tim Blake Nelson",
+            "Anthony Mackie",
             "Shira Haas",
-            "Danny Ramirez",
             "Takehiro Hira",
-            "Phuong Kubacki",
             "Carl Lumbly",
-            "Colby Lopez",
+            "Danny Ramirez",
+            "Phuong Kubacki",
             "Xosha Roquemore",
+            "Colby Lopez",
             "Rachael Markarian",
             "Jacqueline Loucks",
             "Tony Mareno",
@@ -1906,19 +1714,19 @@
             "Osgood Perkins"
         ],
         "main cast": [
-            "Theo James",
             "Osgood Perkins",
-            "Tatiana Maslany",
+            "Theo James",
             "Elijah Wood",
+            "Tatiana Maslany",
             "Laura Mennell",
             "Christian Convery",
             "Sarah Levy",
             "Rohan Campbell",
             "Colin O'Brien",
             "Corin Clark",
-            "Kingston Chan",
-            "Danica Dreyer",
             "Zia Newton",
+            "Danica Dreyer",
+            "Kingston Chan",
             "Dianne Greenwood"
         ]
     },
@@ -1934,14 +1742,14 @@
         "main cast": [
             "Jack Quaid",
             "Amber Midthunder",
-            "Matt Walsh",
             "Jacob Batalon",
+            "Matt Walsh",
             "Betty Gabriel",
             "Ray Nicholson",
             "Dominique Maher",
             "Jessica Stanley",
-            "Evan Hengst",
             "Conrad Kemp",
+            "Evan Hengst",
             "DeVille Vannik",
             "Motsi Tekateka"
         ]
@@ -1958,21 +1766,21 @@
             "Rachel Zegler",
             "Gal Gadot",
             "Andrew Burnap",
-            "Eddison Burch",
-            "Emilia Faucher",
-            "Ansu Kabia",
             "Lorena Andrea",
+            "Ansu Kabia",
+            "Emilia Faucher",
             "Colin Michael Carmichael",
             "Dujonna Gift",
-            "Leon Ung",
+            "Eddison Burch",
             "Luisa Guerreiro",
-            "Jon-Scott Clark",
-            "Dean Nolan",
-            "Misa Koide",
             "Joshmaine Joseph",
-            "Kathryn Akin",
+            "Leon Ung",
+            "Jon-Scott Clark",
+            "Misa Koide",
+            "Dean Nolan",
+            "Charlie Man Evans",
             "Kat Collings",
-            "Charlie Man Evans"
+            "Kathryn Akin"
         ]
     },
     {
@@ -1984,24 +1792,24 @@
             "James Hawes"
         ],
         "main cast": [
+            "Rachel Brosnahan",
             "Caitríona Balfe",
             "Rami Malek",
             "Holt McCallany",
-            "Rachel Brosnahan",
             "Laurence Fishburne",
             "Julianne Nicholson",
             "Takehiro Hira",
+            "Joseph Millson",
             "Alice Hewkin",
             "Adrian Martinez",
-            "Joseph Millson",
             "Marc Rissmann",
-            "Barbara Probst",
-            "Nick Mills",
             "Evan Milton",
-            "Thiago Brandão",
+            "Kate Sumpter",
+            "Obie Matthew",
+            "Nick Mills",
             "Christy Meyer",
             "Fleur Keith",
-            "Obie Matthew"
+            "Fredrik Wagner"
         ]
     },
     {
@@ -2016,21 +1824,21 @@
             "Miles Teller",
             "Colman Domingo",
             "Kat Graham",
-            "Nia Long",
             "Laura Harrier",
+            "Nia Long",
             "Jaafar Jackson",
-            "Larenz Tate",
             "Jessica Sula",
-            "Derek Luke",
-            "Kendrick Sampson",
-            "Nathaniel Logan McIntyre",
-            "Allan Wayne Anderson",
             "Carly King",
-            "Joseph David-Jones",
+            "Derek Luke",
+            "Larenz Tate",
+            "Kendrick Sampson",
             "KeiLyn Durrel Jones",
+            "Joseph David-Jones",
+            "Allan Wayne Anderson",
             "Jordyn Rax",
-            "Rhyan Hill",
-            "Jacob John Caldwell"
+            "Taylor Shade",
+            "Amari Deity",
+            "Nathaniel Logan McIntyre"
         ]
     },
     {
@@ -2043,17 +1851,17 @@
         ],
         "main cast": [
             "Florence Pugh",
-            "Lewis Pullman",
-            "Olga Kurylenko",
             "Rachel Weisz",
+            "Lewis Pullman",
             "Sebastian Stan",
-            "Hannah John-Kamen",
-            "Julia Louis-Dreyfus",
-            "David Harbour",
-            "Wyatt Russell",
             "Geraldine Viswanathan",
-            "Christopher Cocke",
+            "Olga Kurylenko",
+            "David Harbour",
+            "Hannah John-Kamen",
+            "Wyatt Russell",
+            "Julia Louis-Dreyfus",
             "Malik Jubal",
+            "Christopher Cocke",
             "Alireza Mirmontazeri"
         ]
     },
@@ -2067,10 +1875,11 @@
         ],
         "main cast": [
             "Tom Cruise",
-            "Vanessa Kirby",
-            "Katy O'Brian",
-            "Hayley Atwell",
             "Hannah Waddingham",
+            "Janet McTeer",
+            "Vanessa Kirby",
+            "Hayley Atwell",
+            "Katy O'Brian",
             "Nick Offerman",
             "Pom Klementieff",
             "Simon Pegg",
@@ -2079,11 +1888,10 @@
             "Ving Rhames",
             "Shea Whigham",
             "Esai Morales",
-            "Janet McTeer",
-            "Pasha D. Lychnikoff",
             "Henry Czerny",
+            "Pasha D. Lychnikoff",
             "Charles Parnell",
-            "Mariela Garriga"
+            "Tramell Tillman"
         ]
     },
     {
@@ -2097,10 +1905,10 @@
         "main cast": [
             "Joshua Jackson",
             "Jackie Chan",
-            "Ralph Macchio",
             "Ming-Na Wen",
-            "Shaunette Renée Wilson",
+            "Ralph Macchio",
             "Aramis Knight",
+            "Shaunette Renée Wilson",
             "Sadie Stanley",
             "Wyatt Oleff",
             "Ben Wang",
@@ -2117,13 +1925,13 @@
         ],
         "main cast": [
             "Brad Pitt",
-            "Kerry Condon",
             "Tobias Menzies",
             "Javier Bardem",
+            "Kerry Condon",
             "Simone Ashley",
-            "Callie Cooke",
             "Kim Bodnia",
             "Damson Idris",
+            "Callie Cooke",
             "Sarah Niles",
             "Samson Kayo",
             "Will Merrick",
@@ -2131,9 +1939,9 @@
             "Art Newkirk",
             "Lewis Hamilton",
             "Abdul Salis",
+            "Andy M Milligan",
             "Eddie Eniel",
-            "Michael Aaron Milligan",
-            "Carlos Sainz"
+            "Rachel Walters"
         ]
     },
     {
@@ -2154,15 +1962,15 @@
             "Ellie Bamber",
             "Lil Rel Howery",
             "Peter Atencio",
-            "Reis Daniel",
+            "Owen Davis",
             "Donald Sage Mackay",
+            "Reis Daniel",
+            "Jimmy Smagula",
             "Lucia Aliu",
             "Georgi S. Georgiev",
-            "Jimmy Smagula",
-            "Owen Davis",
-            "John Riho Kim",
             "Anwar Lynch",
-            "Peter Petrov-Pero"
+            "Emilio Iannucci",
+            "John Riho Kim"
         ]
     }
 ]
