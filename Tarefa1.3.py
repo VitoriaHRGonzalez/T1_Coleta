@@ -18,6 +18,44 @@ def there_is_update(data, country, currency, continent, neighbours):
         return False
     return True
 
+
+def get_country_info_from_page(bs):
+    # Coletar as informações do país do HTML
+    country = bs.find('tr', id='places_country__row').find('td', class_='w2p_fw').text  
+    currency = bs.find('tr', id='places_currency_name__row').find('td', class_='w2p_fw').text
+    continent = bs.find('tr', id='places_continent__row').find('td', class_='w2p_fw').text
+    neighbours = helper.get_neighbours(bs.find('tr', id='places_neighbours__row'))
+    return country, currency, continent, neighbours
+
+def add_country(data, country, currency, continent, neighbours, file):
+    print(f'Adicionando {country}')
+    # Adiciona uma nova linha ao DataFrame
+    new_row = pd.DataFrame({
+        u'País': [country],
+        'Moeda': [currency],
+        'Continente': [continent],
+        'Vizinhos': [neighbours],
+        'Timestamp': [datetime.now().strftime('%Y-%m-%d %H:%M:%S')]
+    })
+    data = pd.concat([data, new_row], ignore_index=True)
+    
+    # Ordena as informações por país
+    data = data.sort_values(by=u'País')
+
+    # Salvar os dados no arquivo
+    data.to_csv(file, sep=',', encoding='utf-8', index=False)
+
+def update_country(data, country, currency, continent, neighbours, file):
+    print(f'Atualizando {country} {currency} {continent} {neighbours}')
+    # Atualiza as informações já existentes
+    data.loc[data[u'País'] == country, 'Moeda'] = currency
+    data.loc[data[u'País'] == country, 'Continente'] = continent
+    data.loc[data[u'País'] == country, 'Vizinhos'] = neighbours
+    data.loc[data[u'País'] == country, 'Timestamp'] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
+    # Salvar o DataFrame no arquivo CSV
+    data.to_csv(file, sep=',', encoding='utf-8', index=False)
+    
 # Faça um crawler que monitore as páginas de países e procure por atualizações.
 # Caso algum registro tenha sido atualizado desde sua obtenção, esse registro deve ser atualizado
 # no arquivo CSV, caso contrário manter a versão anterior.
@@ -34,45 +72,17 @@ def check_update():
         response = requests.get(page)
         bs = BeautifulSoup(response.text, 'html.parser')
 
-        # Coletar as informações
-        country = bs.find('tr', id='places_country__row').find('td', class_='w2p_fw').text  
-        currency = bs.find('tr', id='places_currency_name__row').find('td', class_='w2p_fw').text
-        continent = bs.find('tr', id='places_continent__row').find('td', class_='w2p_fw').text
-        neighbours = helper.get_neighbours(bs.find('tr', id='places_neighbours__row'))
+        # Coletar as informações no HTML
+        country, currency, continent, neighbours = get_country_info_from_page(bs)
 
         print('Verificando {}'.format(country))
 
         # Adiciona país se não existir no .csv
         if country not in data[u'País'].values:
-            print('Adicionando')
-            new_row = pd.DataFrame({
-                u'País': [country],
-                'Moeda': [currency],
-                'Continente': [continent],
-                'Vizinhos': [neighbours],
-                'Timestamp': [datetime.now().strftime('%Y-%m-%d %H:%M:%S')]
-            })
-            data = pd.concat([data, new_row], ignore_index=True)
-            
-            # Ordena o DataFrame por país
-            data = data.sort_values(by=u'País')
-
-            # Salvar o DataFrame no arquivo CSV
-            data.to_csv(file, sep=',', encoding='utf-8', index=False)
+            add_country(data, country, currency, continent, neighbours, file)
         # Atualiza país se houver alteração
         elif there_is_update(data, country, currency, continent, neighbours):
-            print('Atualizando {} {} {} {}'.format(country, currency, continent, neighbours))
-            # Atualiza as informações no .csv
-            data.loc[data[u'País'] == country, 'Moeda'] = currency
-            data.loc[data[u'País'] == country, 'Continente'] = continent
-            data.loc[data[u'País'] == country, 'Vizinhos'] = neighbours
-            data.loc[data[u'País'] == country, 'Timestamp'] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-
-            # Ordenar o DataFrame pela coluna 'País'
-            data = data.sort_values(by=u'País')
-
-            # Salvar o DataFrame no arquivo CSV
-            data.to_csv(file, sep=',', encoding='utf-8', index=False)
+            update_country(data, country, currency, continent, neighbours, file)
 
 # Continua verificando atualizações enquanto o script estiver rodando
 while True:
