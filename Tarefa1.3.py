@@ -45,14 +45,18 @@ def check_update():
         # Adiciona país se não existir no .csv
         if country not in data[u'País'].values:
             print('Adicionando')
-            data = data.append({
-                u'País': country,
-                'Moeda': currency,
-                'Continente': continent,
-                'Vizinhos': neighbours,
-                'Timestamp': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-            }, ignore_index=True)
+            new_row = pd.DataFrame({
+                u'País': [country],
+                'Moeda': [currency],
+                'Continente': [continent],
+                'Vizinhos': [neighbours],
+                'Timestamp': [datetime.now().strftime('%Y-%m-%d %H:%M:%S')]
+            })
+            data = pd.concat([data, new_row], ignore_index=True)
             
+            # Ordena o DataFrame por país
+            data = data.sort_values(by=u'País')
+
             # Salvar o DataFrame no arquivo CSV
             data.to_csv(file, sep=',', encoding='utf-8', index=False)
         # Atualiza país se houver alteração
@@ -63,6 +67,9 @@ def check_update():
             data.loc[data[u'País'] == country, 'Continente'] = continent
             data.loc[data[u'País'] == country, 'Vizinhos'] = neighbours
             data.loc[data[u'País'] == country, 'Timestamp'] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
+            # Ordenar o DataFrame pela coluna 'País'
+            data = data.sort_values(by=u'País')
 
             # Salvar o DataFrame no arquivo CSV
             data.to_csv(file, sep=',', encoding='utf-8', index=False)
